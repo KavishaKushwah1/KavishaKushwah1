@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Graph
+name: Generate Advanced Pacman Contribution Graph
 
 on:
   schedule:
@@ -9,20 +9,20 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Pacman contribution graph
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate advanced pacman graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          theme: github-dark
+          username: ${{ github.repository_owner }}
+          style: pacman
 
-      - name: Commit and push
+      - name: Commit files
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate pacman contribution graph"
-          add: "pacman-contribution-graph.svg"
+          message: "Generate advanced pacman contribution graph"
+          add: "."
