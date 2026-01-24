@@ -18,10 +18,8 @@ jobs:
       - name: Generate advanced pacman graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
+          USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: ${{ github.repository_owner }}
-          style: pacman
 
       - name: Commit files
         uses: EndBug/add-and-commit@v9
