@@ -12,4 +12,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=KavishaKushwah1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🟡 GitHub Contribution Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KavishaKushwah1/KavishaKushwah1/main/pacman-contribution-graph.svg" width="100%"/>
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
