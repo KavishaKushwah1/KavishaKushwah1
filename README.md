@@ -5,6 +5,9 @@
         alt="Matrix Banner">
 </p>
 
+## About me
+
+
 ```yaml
 Name: Kavisha Kushwah
 Role: AI & Full-Stack Developer
@@ -13,7 +16,7 @@ Learning: Agentic AI, RAG, MERN
 Focus: DSA & Projects
 Goal: Building impactful AI applications.
 ```
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,7 +56,7 @@ Goal: Building impactful AI applications.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavisha-kushwah-318749295)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavishakushwah07@gmail.com)
 
-## Pac-Man Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <picture>
