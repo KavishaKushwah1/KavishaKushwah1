@@ -42,6 +42,7 @@ Goal: Building impactful AI applications.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -51,3 +52,16 @@ Goal: Building impactful AI applications.
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Kavishakushwah06/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavisha-kushwah-318749295)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavishakushwah07@gmail.com)
+
+## Pac-Man Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/KavishaKushwah1/KavishaKushwah1/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/KavishaKushwah1/KavishaKushwah1/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/KavishaKushwah1/KavishaKushwah1/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
